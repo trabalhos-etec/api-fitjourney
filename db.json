@@ -1,0 +1,61 @@
+{
+  "product": {
+    "name": "Bebida Láctea UHT Chocolate Pirakids 200ml",
+    "barcode": "7898215151807",
+    "portion": {
+      "quantity": "200 ml",
+      "unit": "1 unidade"
+    },
+    "nutrition_facts": {
+      "portion_sizes": ["100 ml", "200 ml"],
+      "values": {
+        "100 ml": {
+          "calories_kcal": 72,
+          "carbohydrates_g": 12,
+          "total_sugars_g": 12,
+          "added_sugars_g": 7.4,
+          "protein_g": 1,
+          "total_fat_g": 2.2,
+          "saturated_fat_g": 1.1,
+          "trans_fat_g": 0,
+          "fiber_g": 0,
+          "sodium_mg": 71,
+          "vitamin_A_ug": 60,
+          "vitamin_D_ug": 1.2,
+          "calcium_mg": 58
+        },
+        "200 ml": {
+          "calories_kcal": 143,
+          "carbohydrates_g": 24,
+          "total_sugars_g": 23,
+          "added_sugars_g": 15,
+          "protein_g": 2,
+          "total_fat_g": 4.3,
+          "saturated_fat_g": 2.2,
+          "trans_fat_g": 0,
+          "fiber_g": 0,
+          "sodium_mg": 142,
+          "vitamin_A_ug": 120,
+          "vitamin_D_ug": 2.3,
+          "calcium_mg": 116
+        }
+      },
+      "percent_daily_values": {
+        "200 ml": {
+          "calories_percent": 7,
+          "carbohydrates_percent": 8,
+          "added_sugars_percent": 30,
+          "protein_percent": 4,
+          "total_fat_percent": 7,
+          "saturated_fat_percent": 11,
+          "fiber_percent": 0,
+          "sodium_percent": 7,
+          "vitamin_A_percent": 15,
+          "vitamin_D_percent": 15,
+          "calcium_percent": 12
+        }
+      }
+    },
+    "image_url": "https://boa.vtexassets.com/arquivos/ids/555063/Bebida-Lactea-UHT-Chocolate-Pirakids-200ml.jpg?v=638488985474030000"
+  }
+}
